@@ -1,4 +1,5 @@
 .. raw:: html
+#Mudassir Alam
 
     <p align="center">
     <img alt="DNA Features Viewer Logo" title="DNA Features Viewer Logo" src="https://raw.githubusercontent.com/Edinburgh-Genome-Foundry/DnaFeaturesViewer/master/docs/_static/images/title.png" width="350">
